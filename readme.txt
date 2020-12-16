@@ -2,7 +2,7 @@
 Contributors: unibirdtech
 Author URI: :
 Tags: customizer, logo,header, Testimonial, callout, service
-Tested up to: 5.5.6
+Tested up to: 5.6
 Stable tag: 0.0.1
 License: GPLv3 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
